@@ -13,7 +13,8 @@
    <img align="right" alt="Kay-pic" height="150" style="border-radius:50px;"
  src="https://media4.giphy.com/media/HHnQNw8ISxlhYkZIQR/giphy.gif?cid=ecf05e47clq9yrqvueim344ylwuc1fxzto90ry6o0648w5kc&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </div>
-  ##
+
+##
   
 <div style="display: inline_block"><br>
   <a href="https://instagram.com/shinuyuu_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
