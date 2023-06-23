@@ -2,6 +2,7 @@
 <div align="center">
   
   [![Discord Presence](https://lanyard.kyrie25.me/api/283679422815535104)](https://discord.com/users/283679422815535104)
+ [![Discord Presence](https://lanyard.kyrie25.me/api/280882418674565121?theme=dark&bg=000000&hideDiscrim=true)](https://discord.com/users/280882418674565121)
  
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shinuyuu&layout=compact&theme=great-gatsby&text_color=FFFFFF&title_color=FF0000)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shinuyuu&layout=compact&theme=great-gatsby&text_color=FFFFFF&title_color=FF0000)](https://github.com/anuraghazra/github-readme-stats)
