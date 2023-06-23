@@ -12,7 +12,7 @@
   <img align="center" alt="Kay-.NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   <img align="center" alt="Kay-MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
    <img align="right" alt="Kay-pic" height="150" style="border-radius:50px;"
-      src="https:https://media.tenor.com/vz88xdohWvEAAAAC/makima-chainsaw-man.gif">
+      <img src="https:https://media.tenor.com/vz88xdohWvEAAAAC/makima-chainsaw-man.gif">
 </div>
   
   ##
