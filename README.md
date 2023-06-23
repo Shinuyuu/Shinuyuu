@@ -6,7 +6,8 @@
 </div>
   
     
- <img src="https://media.tenor.com/siLSzjQ2PFMAAAAi/makima.gif" width="50px"> ##Tecnologias que eu uso no meu dia:
+## Tecnologias que eu uso no meu dia:
+<img src="https://media.tenor.com/siLSzjQ2PFMAAAAi/makima.gif" width="50px">
 <div style="display: inline_block"><br>
   <img align="center" alt="Kay-Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" alt="Kay-.NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
