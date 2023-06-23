@@ -1,8 +1,8 @@
 ## Heyy! I'm Shinuyuu
 <div align="center">
-  <a href="https://github.com/Shinuyuu">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Shinuyuu&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinuyuu&layout=compact&langs_count=7&theme=synthwave"/>
+  <a href="https://github.com/shinuyuu">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=shinuyuu&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinuyuu&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -20,7 +20,7 @@
     <a href = " "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
    
-![Snake animation](https://github.com/Shinuyuu/Shinuyuu/blob/output/github-contribution-grid-snake.svg) 
+![Snake animation](https://github.com/shinuyuu/shinuyuu/blob/output/github-contribution-grid-snake.svg) 
 </div>
   
   ##
