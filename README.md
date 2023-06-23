@@ -4,10 +4,10 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=shinuyuu&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinuyuu&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
-  
-    
+
+<img src="https://media.tenor.com/siLSzjQ2PFMAAAAi/makima.gif" width="40px">
+
 ## Tecnologias que eu uso no meu dia:
-<img src="https://media.tenor.com/siLSzjQ2PFMAAAAi/makima.gif" width="50px">
 <div style="display: inline_block"><br>
   <img align="center" alt="Kay-Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" alt="Kay-.NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
