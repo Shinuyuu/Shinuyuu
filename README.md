@@ -1,6 +1,7 @@
 ### Olá! eu sou Shinuyuu, mas pode me chamar de Shin <img src="https://media.tenor.com/llY4dBe08RkAAAAi/pikachu.gif" width="30px"> 
 <div align="center">
-  
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shinuyuu&layout=compact&theme=great-gatsby&text_color=FFFFFF&title_color=FF0000)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shinuyuu&layout=compact&theme=great-gatsby&text_color=FFFFFF&title_color=FF0000)](https://github.com/anuraghazra/github-readme-stats)
 </div>
@@ -20,6 +21,7 @@
   <a href="https://instagram.com/shinuyuu_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = " "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://discord.com/shinuyuu"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+ 
   [![Discord Presence](https://lanyard.kyrie25.me/api/283679422815535104)](https://discord.com/users/283679422815535104)
   </a>
 
