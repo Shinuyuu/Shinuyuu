@@ -26,7 +26,7 @@
    
 ![Snake animation](https://github.com/victoriaflb/victoriaflb/blob/output/github-contribution-grid-snake.svg)  
   ##
-  <img align="right" height="350em" src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif">
+<img align="right" height="350em" src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif">
 - 👋 Hi, I’m @Shinuyuu
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
