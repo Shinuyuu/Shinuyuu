@@ -7,10 +7,11 @@
 
 ## Tecnologias que eu uso no meu dia:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Kay-Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img align="center" alt="Kay-.NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-  <img align="center" alt="Kay-MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-   <img align="right" alt="Kay-pic" height="150" style="border-radius:50px;"
+ <img align="center" alt="Shin-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Shin-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Shin-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Shin-Git" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+   <img align="right" alt="Shin-pic" height="150" style="border-radius:50px;"
  src="https://media4.giphy.com/media/HHnQNw8ISxlhYkZIQR/giphy.gif?cid=ecf05e47clq9yrqvueim344ylwuc1fxzto90ry6o0648w5kc&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </div>
 
