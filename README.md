@@ -8,10 +8,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Kay-Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" alt="Kay-.NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-  <img align="center" alt="Kay-Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="Kay-MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="right" alt="Kay-pic" height="150" style="border-radius:50px;" 
-      src="https://media2.giphy.com/media/bBkMecgku5G1THrkPT/giphy.gif?cid=790b7611b74467605d8b05983bfdc7ff7e13b2b833c2df08&rid=giphy.gif&ct=g">
+      src="https://media4.giphy.com/media/HHnQNw8ISxlhYkZIQR/giphy.gif?cid=ecf05e47clq9yrqvueim344ylwuc1fxzto90ry6o0648w5kc&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </div>
   
   ##
