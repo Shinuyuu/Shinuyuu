@@ -30,7 +30,8 @@
   ##
 - 👋 Hi, I’m @Shinuyuu <img src="https://media.tenor.com/TkRdt-ZtAgcAAAAi/tychq.gif" width="30px">
 - 👀 Interested in games <img src="https://media.tenor.com/1iYwnjLuji0AAAAi/pikachu-minecraft.gif" width="30px">
-- 🌱 Studying: C#, MySQL, Inglês, Etc... <img src="https://media.tenor.com/SH31iAEWLT8AAAAi/pikachu-running.gif" width="30px">
+- 🌱 Studying: C#, MySQL, Inglês, Etc... <img src="https://media.tenor.com/w6ihDzAILIMAAAAi/anime-meme.gif" width="30px">
 - 💞️ 16/12 <img src="https://media.tenor.com/eR6Sd6ovSI0AAAAi/love-pikachu-pipoudark.gif" width="30px">
-- 👩‍💻 Attending: Computer Technician // ETEC ADOLPHO BEREZIN <img src="https://media.tenor.com/w6ihDzAILIMAAAAi/anime-meme.gif" width="30px">
+- 👩‍💻 Attending: Computer Technician // ETEC ADOLPHO BEREZIN <img src="https://media.tenor.com/s4yxpAG7EygAAAAi/kawai-beautifull
+" width="30px">
 <img align="right" height="350em" src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif">
