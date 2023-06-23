@@ -5,7 +5,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinuyuu&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
-<img src="https://media.tenor.com/siLSzjQ2PFMAAAAi/makima.gif" width="40px">
 
 ## Tecnologias que eu uso no meu dia:
 <div style="display: inline_block"><br>
@@ -29,9 +28,10 @@
    
 ![Snake animation](https://github.com/victoriaflb/victoriaflb/blob/output/github-contribution-grid-snake.svg)  
   ##
-- 👋 Hi, I’m @Shinuyuu <img src="https://media.tenor.com/TkRdt-ZtAgcAAAAi/tychq.gif" width="30px">
-- 👀 Interested in games <img src="https://media.tenor.com/1iYwnjLuji0AAAAi/pikachu-minecraft.gif" width="30px">
-- 🌱 Studying: C#, MySQL, Inglês, Etc... <img src="https://media.tenor.com/w6ihDzAILIMAAAAi/anime-meme.gif" width="30px">
-- 💞️ 16/12 <img src="https://media.tenor.com/eR6Sd6ovSI0AAAAi/love-pikachu-pipoudark.gif" width="30px">
-- 👩‍💻 Attending: Computer Technician // ETEC ADOLPHO BEREZIN <img src="https://media.tenor.com/4HDSWO43pHAAAAAi/kumapls-anime.gif" width="30px">
+- 👋 Hi, I’m @Shinuyuu <img src="https://media.tenor.com/TkRdt-ZtAgcAAAAi/tychq.gif" width="35px">
+- 👀 Interested in games <img src="https://media.tenor.com/1iYwnjLuji0AAAAi/pikachu-minecraft.gif" width="35px">
+- 🌱 Studying: C#, MySQL, Inglês, Etc... <img src="https://media.tenor.com/w6ihDzAILIMAAAAi/anime-meme.gif" width="35px">
+- 💞️ 16/12 <img src="https://media.tenor.com/eR6Sd6ovSI0AAAAi/love-pikachu-pipoudark.gif" width="35px">
+- 👩‍💻 Attending: Computer Technician // ETEC ADOLPHO BEREZIN <img src="https://media.tenor.com/4HDSWO43pHAAAAAi/kumapls-anime.gif" width="35px">
+- 📫 Welcome to My Github <img src="https://media.tenor.com/siLSzjQ2PFMAAAAi/makima.gif" width="35px">
 <img align="right" height="350em" src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif">
