@@ -1,8 +1,10 @@
 ### Olá! eu sou Shinuyuu, mas pode me chamar de Shin <img src="https://media.tenor.com/llY4dBe08RkAAAAi/pikachu.gif" width="30px"> 
 <div align="center">
-  <a href="https://github.com/shinuyuu">
-  <img height="150em" src="https://lanyard.kyrie25.me/api/283679422815535104)](https://discord.com/users/283679422815535104"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=shinuyuu&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  
+  [![Discord Presence](https://lanyard.kyrie25.me/api/280882418674565121?theme=dark&bg=000000&hideDiscrim=true)](https://discord.com/users/280882418674565121)
+ 
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiyugoPlays&layout=compact&theme=great-gatsby&text_color=FFFFFF&title_color=FF0000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiyugoPlays&layout=compact&theme=great-gatsby&text_color=FFFFFF&title_color=FF0000)](https://github.com/anuraghazra/github-readme-stats)
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinuyuu&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
