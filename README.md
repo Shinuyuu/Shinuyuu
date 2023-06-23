@@ -1,10 +1,7 @@
 ### Olá! eu sou Shinuyuu, mas pode me chamar de Shin <img src="https://media.tenor.com/llY4dBe08RkAAAAi/pikachu.gif" width="30px"> 
 <div align="center">
   
-  [![Discord Presence](https://lanyard.kyrie25.me/api/283679422815535104)](https://discord.com/users/283679422815535104)
- [![Discord Presence](https://lanyard.kyrie25.me/api/280882418674565121?theme=dark&bg=000000&hideDiscrim=true)](https://discord.com/users/280882418674565121)
- 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shinuyuu&layout=compact&theme=great-gatsby&text_color=FFFFFF&title_color=FF0000)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shinuyuu&layout=compact&theme=great-gatsby&text_color=FFFFFF&title_color=FF0000)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shinuyuu&layout=compact&theme=great-gatsby&text_color=FFFFFF&title_color=FF0000)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
@@ -19,6 +16,7 @@
 </div>
 
 ## Formas de Contato:
+[![Discord Presence](https://lanyard.kyrie25.me/api/283679422815535104)](https://discord.com/users/283679422815535104)
 <div style="display: inline_block"><br>
   <a href="https://instagram.com/shinuyuu_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = " "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
