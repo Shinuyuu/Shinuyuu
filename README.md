@@ -1,4 +1,4 @@
-## Heyy! I'm Shinuyuu
+## Heyy! I'm Shinuyuu <img src="https://media.tenor.com/llY4dBe08RkAAAAi/pikachu.gif" width="30px"> 
 <div align="center">
   <a href="https://github.com/shinuyuu">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=shinuyuu&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
