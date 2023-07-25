@@ -30,7 +30,7 @@
 
   </div>
  
- ![Snake animation](https://github.com/Shinuyuu/Shinuyuu/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Shinuyuu/Shinuyuu/blob/output/github-contribution-grid-snake.svg)
 <br>
   ##
 - 👋 Hi, I’m @Shinuyuu <img src="https://media.tenor.com/TkRdt-ZtAgcAAAAi/tychq.gif" width="35px">
