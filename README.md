@@ -32,7 +32,7 @@
 
 <br>
    
-![Snake animation](https://github.com/victoriaflb/victoriaflb/blob/output/github-contribution-grid-snake.svg)  
+![Snake animation](https://github.com/victoriaflb/victoriaflb/blob/output/github-contribution-grid-snake.svg) 
   ##
 - 👋 Hi, I’m @Shinuyuu <img src="https://media.tenor.com/TkRdt-ZtAgcAAAAi/tychq.gif" width="35px">
 - 👀 Interested in games <img src="https://media.tenor.com/1iYwnjLuji0AAAAi/pikachu-minecraft.gif" width="35px">
