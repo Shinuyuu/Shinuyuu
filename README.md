@@ -8,9 +8,9 @@
 
 ## Tecnologias que eu uso no meu dia:
 <div style="display: inline_block"><br>
- <img align="center" alt="Shin-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Shin-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Shin-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+ <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"><img align="center" alt="Shin-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <a href="https://dev.mysql.com/downloads/mysql/"><img align="center" alt="Shin-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <a href="https://code.visualstudio.com/download"><img align="center" alt="Shin-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Shin-Git" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
    <img align="right" alt="Shin-pic" height="150" style="border-radius:50px;"
  src="https://media4.giphy.com/media/HHnQNw8ISxlhYkZIQR/giphy.gif?cid=ecf05e47clq9yrqvueim344ylwuc1fxzto90ry6o0648w5kc&ep=v1_gifs_search&rid=giphy.gif&ct=g">
