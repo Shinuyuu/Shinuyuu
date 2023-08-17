@@ -8,7 +8,7 @@
 
 ## Tecnologias que eu uso no meu dia:
 <div style="display: inline_block"><br>
- <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"><img align="center" alt="Shin-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+ <a href="https://www.google.com/search?q=C%23&oq=C%23&aqs=chrome..69i57j69i58j69i60j69i61.3239j0j7&sourceid=chrome&ie=UTF-8"><img align="center" alt="Shin-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <a href="https://dev.mysql.com/downloads/mysql/"><img align="center" alt="Shin-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <a href="https://code.visualstudio.com/download"><img align="center" alt="Shin-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <a href="https://git-scm.com/downloads"><img align="center" alt="Shin-Git" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
