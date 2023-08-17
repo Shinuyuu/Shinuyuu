@@ -38,4 +38,4 @@
 - 💞️ 16/12<img src="https://media.tenor.com/eR6Sd6ovSI0AAAAi/love-pikachu-pipoudark.gif" width="35px">
 - 👩‍💻 Attending: Computer Technician // ETEC ADOLPHO BEREZIN<img src="https://media.tenor.com/4HDSWO43pHAAAAAi/kumapls-anime.gif" width="35px">
 - 📫 Welcome to My Github<img src="https://media.tenor.com/siLSzjQ2PFMAAAAi/makima.gif" width="35px">
-<img align="right" height="350em" src="https://media.tenor.com/PaQdK2bTkyUAAAAi/remilia-remiliascarlet.gif">
+<a href="https://www.youtube.com/watch?v=MkRed9gokYM"><img align="right" height="350em" src="https://media.tenor.com/PaQdK2bTkyUAAAAi/remilia-remiliascarlet.gif">
