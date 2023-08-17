@@ -32,7 +32,7 @@
  
 <br>
   ##
-- 👋 Hi, I’m @Shinuyuu <img src="https://media.tenor.com/TkRdt-ZtAgcAAAAi/tychq.gif" width="35px">
+- 👋 Hi, I’m @Shinuyuu <img href="https://pokemondb.net/pokedex/vaporeon"><img src="https://media.tenor.com/TkRdt-ZtAgcAAAAi/tychq.gif" width="35px">
 - 👀 Interested in games <img src="https://media.tenor.com/1iYwnjLuji0AAAAi/pikachu-minecraft.gif" width="35px">
 - 🌱 Studying: C#, MySQL, Inglês, Etc... <img src="https://media.tenor.com/w6ihDzAILIMAAAAi/anime-meme.gif" width="35px">
 - 💞️ 16/12 <img src="https://media.tenor.com/eR6Sd6ovSI0AAAAi/love-pikachu-pipoudark.gif" width="35px">
