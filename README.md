@@ -2,8 +2,8 @@
 <div align="center">
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shinuyuu&layout=compact&theme=great-gatsby&text_color=FFFFFF&title_color=3677B2 )](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shinuyuu&layout=compact&theme=great-gatsby&text_color=FFFFFF&title_color=3677B2 )](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shinuyuu&layout=compact&theme=great-gatsby&text_color=FFFFFF&title_color=ff0000 )](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shinuyuu&layout=compact&theme=great-gatsby&text_color=FFFFFF&title_color=ff0000 )](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ## Tecnologias que eu uso no meu dia:
