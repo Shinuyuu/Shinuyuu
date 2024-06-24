@@ -35,7 +35,7 @@
 - 👋 Hi, I’m @Shinuyuu<img src="https://media.tenor.com/TkRdt-ZtAgcAAAAi/tychq.gif" width="35px">
 - 👀 Interested in games<img src="https://media.tenor.com/1iYwnjLuji0AAAAi/pikachu-minecraft.gif" width="35px">
 - 🌱 Studying: C#, MySQL, Inglês, Etc...<img src="https://media.tenor.com/w6ihDzAILIMAAAAi/anime-meme.gif" width="35px">
-- 💞️ 16/12<img src="https://media.tenor.com/eR6Sd6ovSI0AAAAi/love-pikachu-pipoudark.gif" width="35px">
+- 💞️ 26/10<img src="https://media.tenor.com/eR6Sd6ovSI0AAAAi/love-pikachu-pipoudark.gif" width="35px">
 - 👩‍💻 Attending: Computer Technician // ETEC ADOLPHO BEREZIN<img src="https://media.tenor.com/4HDSWO43pHAAAAAi/kumapls-anime.gif" width="35px">
 - 📫 Welcome to My Github<img src="https://media.tenor.com/siLSzjQ2PFMAAAAi/makima.gif" width="35px">
 <a href="https://www.youtube.com/watch?v=MkRed9gokYM"><img align="right" height="350em" src="https://media.tenor.com/PaQdK2bTkyUAAAAi/remilia-remiliascarlet.gif">
